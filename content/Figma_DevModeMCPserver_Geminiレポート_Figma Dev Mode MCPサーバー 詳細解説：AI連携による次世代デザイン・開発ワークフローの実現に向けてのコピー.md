@@ -1,4 +1,13 @@
-#Figma #MCP 
+---
+title: Figma_DevModeMCPserver_Geminiレポート
+type: evergreen
+datetata: 2025-06-05 09:33:54
+tags:
+  - MCP
+  - Figma
+---
+# Figma Dev Mode MCPサーバー 詳細解説：AI連携による次世代デザイン・開発ワークフローの実現に向けて
+
 ## 1. Figma Dev Mode MCPサーバーの概要と戦略的意義
 
 Figmaは、デザインと開発の連携を強化するためのDev Modeにおいて、AI（人工知能）を活用した新たな地平を切り開く「Dev Mode Model Context Protocol (MCP) サーバー」を発表しました。本セクションでは、このMCPサーバーの基本的な定義、開発ワークフローにおける位置づけ、そしてAI駆動型のコード生成における役割について詳述し、その戦略的な重要性を明らかにします。
